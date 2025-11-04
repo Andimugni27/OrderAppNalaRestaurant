@@ -86,3 +86,11 @@ Pastikan Android SDK terinstal dan terkonfigurasi.
 Jalankan aplikasi pada Emulator atau perangkat Android fisik.
 
 Penting: Pastikan perangkat/emulator memiliki koneksi internet agar gambar menu dapat dimuat.
+
+
+<img width="204" height="455" alt="image" src="https://github.com/user-attachments/assets/19fdcd86-ff37-4a6a-878e-a099f5fd3701" />
+<img width="203" height="453" alt="image" src="https://github.com/user-attachments/assets/f7d7b32a-bdd0-409a-a1d0-14504414ba76" />
+<img width="201" height="451" alt="image" src="https://github.com/user-attachments/assets/9cf3fed7-d59f-4e1b-b446-052a950c73bf" />
+
+
+
